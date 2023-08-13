@@ -2,7 +2,7 @@
 
  <div align="center">
   <a href="https://github.com/Elzenirsouza">
-    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=Elzenirsouza&show_icons=true&hide_title=true&hide_rank=false&card_width=400&bg_color=DEG,00134F,0237A9,012173,00134F&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
+    <img height="150em" src="https://anthonyraf-stats.vercel.app/api?username=Elzenirsouza&show_icons=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&card_width=400&bg_color=DEG,00134F,0237A9,012173,00134F&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
     <img height="150em" src="https://anthonyraf-stats.vercel.app/api/top-langs/?username=Elzenirsouza&hide_title=true&layout=compact&bg_color=DEG,00134F,012173,0237A9,00134F&border_color=291b3e&text_color=FFFFFF#gh-dark-mode-only"/>
   </a>
 
