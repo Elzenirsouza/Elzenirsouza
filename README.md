@@ -41,8 +41,7 @@
   <img align="center" alt="elzenir-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
   <img align="center" alt="elzenir-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
  <img align="center" alt="elzenir-c" height="20" width="40" src="https://skillicons.dev/icons?i=c">
-  <img align="center" alt="elzenir-c" height="20" width="40" src="https://icons8.com.br/icon/qBvOwZw81tVy/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-shadow-tal-revivo
-">
+  <img align="center" alt="elzenir-python" height="20" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/python.svg">
 </div>
 </div>
 
